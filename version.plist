@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>174</string>
+	<string>38</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.7.1</string>
+	<string>1.7.9</string>
 	<key>CFBundleVersion</key>
-	<string>1.7.1f14</string>
+	<string>1.7.9f10</string>
 	<key>ProjectName</key>
 	<string>IOBluetoothFamily</string>
 	<key>SourceVersion</key>
-	<string>1710314</string>
+	<string>1790310</string>
 </dict>
 </plist>

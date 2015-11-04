@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>RFCOMM_Open_SPP_Example</string>
 	<key>CFBundleGetInfoString</key>
-	<string>RFCOMM_Open_SPP_Example v1.7.1</string>
+	<string>RFCOMM_Open_SPP_Example v1.7.9</string>
 	<key>CFBundleIconFile</key>
 	<string>Serial</string>
 	<key>CFBundleIdentifier</key>
@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.7.1</string>
+	<string>1.7.9</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.7.1f14</string>
+	<string>1.7.9f10</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
